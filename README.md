@@ -1,7 +1,7 @@
 
-# Mastering AI Inference with Hugging Face Pipelines
+#AI Inference with Hugging Face Pipelines
 
-This repository contains a comprehensive Jupyter Notebook, `Sentiment_Analysis_and_HF_Pipelines.ipynb`, designed as a hands-on guide to leveraging the high-level `pipeline` API from the Hugging Face `transformers` and `diffusers` libraries. This notebook is your gateway to performing a wide array of powerful AI tasks—from Natural Language Processing (NLP) to image and audio generation—with just a few lines of Python code.
+This repository contains a comprehensive Jupyter Notebook, `Sentiment_Analysis_and_HF_Pipelines.ipynb`, designed as a hands-on to leveraging the high-level `pipeline` API from the Hugging Face `transformers` and `diffusers` libraries. This notebook is a gateway to performing a wide array of powerful AI tasks—from Natural Language Processing (NLP) to image and audio generation—with just a few lines of Python code.
 
 ## 🚀 Project Overview
 
